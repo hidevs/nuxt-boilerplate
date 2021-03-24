@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://vuetifyjs.com/" target="_blank">
-<img align="left" alt="PWA" height="40" src="https://repository-images.githubusercontent.com/169397942/bb5be800-8eb8-11e9-9eec-94edc65fa7f6" />
+<img align="left" alt="PWA" height="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--i4QUYWJr--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/9qypxdkcnrvkzqhxeo59.png" />
 </a>
 <br />
 
