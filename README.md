@@ -36,23 +36,35 @@ PWA_BACKGROUND_COLOR="#EBBE47"
 ### 2. Config [nuxt.config.js](./nuxt.config.js) file for installed packages
 ```js
 .
-// https://go.nuxtjs.dev/pwa
-pwa: {} // Progressive Web Apps configuration
+
+/* Progressive Web Apps configuration
+ * https://go.nuxtjs.dev/pwa */
+pwa: {} // 
 .
-// https://github.com/nuxt-community/laravel-echo
-echo: {} // Laravel echo configuration
+
+/* Laravel echo configuration
+ * https://github.com/nuxt-community/laravel-echo */
+echo: {}
 .
-// https://gitlab.com/sweetgum/nuxt-izitoast
-izitoast: {} // Toast configuration
+
+/* Toast configuration
+ * https://gitlab.com/sweetgum/nuxt-izitoast */
+izitoast: {}
 .
-// https://auth.nuxtjs.org/
-auth: {} // auth-nuxt configurations
+
+/* Nuxt Authentication configurations
+ * https://auth.nuxtjs.org/ */
+auth: {}
 .
-// https://go.nuxtjs.dev/vuetify
-vuetify: {} // Vurtify configuration
+
+/* Vuetify configuration
+ * https://go.nuxtjs.dev/vuetify */
+vuetify: {}
 .
-// https://go.nuxtjs.dev/axios
-axios: {} // Axios configurations
+
+/* Axios configurations
+ * https://go.nuxtjs.dev/axios */
+axios: {}
 .
 ```
 
