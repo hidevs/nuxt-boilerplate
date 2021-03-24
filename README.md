@@ -1,6 +1,19 @@
 # Nuxt js boilerplate
-### Compatible with Laravel 
-#### Create by [JalalLinuX](https://github.com/jalallinux)
+#### By [JalalLinuX](https://github.com/jalallinux)
+
+<a href="https://laravel.com/" target="_blank">
+<img align="left" alt="Laravel" height="40" src="https://github.com/jalallinux/jalallinux/raw/master/assets/icon_laravel.jpg" />
+</a>
+
+<a href="https://nuxtjs.org/" target="_blank">
+<img align="left" alt="NuxtJs" height="40" src="https://github.com/jalallinux/jalallinux/raw/master/assets/icon_nuxt.png" />
+</a>
+
+<a href="https://web.dev/progressive-web-apps/" target="_blank">
+<img align="left" alt="PWA" height="40" src="https://github.com/jalallinux/jalallinux/raw/master/assets/icon_pwa.png" />
+</a>
+
+<br />
 
 ## Installed packages
 - [@nuxtjs/vuetify](https://go.nuxtjs.dev/vuetify)
