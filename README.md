@@ -12,6 +12,9 @@
 <img align="left" alt="PWA" height="40" src="https://github.com/jalallinux/jalallinux/raw/master/assets/icon_pwa.png" />
 </a>
 
+<a href="https://vuetifyjs.com/" target="_blank">
+<img align="left" alt="PWA" height="40" src="https://repository-images.githubusercontent.com/169397942/bb5be800-8eb8-11e9-9eec-94edc65fa7f6" />
+</a>
 <br />
 
 ## Installed packages
