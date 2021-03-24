@@ -1,0 +1,36 @@
+
+// izitoast
+.iziToast {
+  font-family: $body-font-family !important;
+}
+
+// highlightjs
+pre {
+  direction: ltr;
+  border-radius: 5px;
+  display: block;
+  overflow-x: auto;
+  padding: 1em;
+  margin: 1rem;
+  background: #232323;
+  color: #e6e1dc;
+}
+
+.iziToast-message {
+  white-space: pre !important;
+}
+
+.my-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 4px;
+  background-color: transparent;
+}
+.my-scrollbar::-webkit-scrollbar-thumb {
+  border-radius: 10px !important;
+  -webkit-box-shadow: inset 0 0 6px rgb(68, 255, 0) !important;
+  background-color: #555555 !important;
+}
+
+.v-btn__content {
+  letter-spacing: normal !important;
+}
