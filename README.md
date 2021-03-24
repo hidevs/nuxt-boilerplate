@@ -1,5 +1,4 @@
 # Nuxt js boilerplate
-#### By [JalalLinuX](https://github.com/jalallinux)
 
 <a href="https://laravel.com/" target="_blank">
 <img align="left" alt="Laravel" height="40" src="https://github.com/jalallinux/jalallinux/raw/master/assets/icon_laravel.jpg" />
